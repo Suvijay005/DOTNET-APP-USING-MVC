@@ -1,0 +1,12 @@
+D:\Practice mvc crud\ECommerce\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\Practice mvc crud\ECommerce\BOL\bin\Debug\net7.0\BOL.dll
+D:\Practice mvc crud\ECommerce\BOL\bin\Debug\net7.0\BOL.pdb
+D:\Practice mvc crud\ECommerce\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+D:\Practice mvc crud\ECommerce\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice mvc crud\ECommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\Practice mvc crud\ECommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\Practice mvc crud\ECommerce\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\Practice mvc crud\ECommerce\BOL\obj\Debug\net7.0\BOL.dll
+D:\Practice mvc crud\ECommerce\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\Practice mvc crud\ECommerce\BOL\obj\Debug\net7.0\BOL.pdb
+D:\Practice mvc crud\ECommerce\BOL\obj\Debug\net7.0\ref\BOL.dll

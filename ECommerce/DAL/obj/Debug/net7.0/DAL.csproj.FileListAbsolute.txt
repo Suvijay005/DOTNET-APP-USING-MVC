@@ -1,0 +1,15 @@
+D:\Practice mvc crud\ECommerce\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\Practice mvc crud\ECommerce\DAL\bin\Debug\net7.0\DAL.dll
+D:\Practice mvc crud\ECommerce\DAL\bin\Debug\net7.0\DAL.pdb
+D:\Practice mvc crud\ECommerce\DAL\bin\Debug\net7.0\BOL.dll
+D:\Practice mvc crud\ECommerce\DAL\bin\Debug\net7.0\BOL.pdb
+D:\Practice mvc crud\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\Practice mvc crud\ECommerce\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice mvc crud\ECommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\Practice mvc crud\ECommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\Practice mvc crud\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\Practice mvc crud\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\Practice mvc crud\ECommerce\DAL\obj\Debug\net7.0\DAL.dll
+D:\Practice mvc crud\ECommerce\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\Practice mvc crud\ECommerce\DAL\obj\Debug\net7.0\DAL.pdb
+D:\Practice mvc crud\ECommerce\DAL\obj\Debug\net7.0\ref\DAL.dll

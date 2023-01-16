@@ -1,0 +1,21 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+   List<Department> dep=(List<Department>)ViewData["departments"];//casting needs to be done here since the ViewData will fetch all the objects and these objects we need to fill in the list.
+    <ul>
+
+     @foreach (Department dpt in dep)
+     {
+       <li> @dpt.Id  @dpt.Name  @dpt.Location   </li> 
+        <a href="/Department/Update/@dpt.Id"><button type="button" name="btn" id="btn">Update</button></a> <br>
+          <a href="/Department/Delete/@dpt.Id"><button type="button" name="btn" id="btn">Delete</button></a>
+      
+     }
+
+
+    </ul>
+}
+<a href="/Department/Insert"><button type="button" name="btn" id="btn">Insert</button></a>
